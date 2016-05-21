@@ -1,1 +1,0 @@
-# EPITECH-minishell1

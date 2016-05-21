@@ -1,0 +1,9 @@
+
+# this is a comment line
+
+### setenv
+setenv EDITOR vi
+setenv EDITOR nano
+
+### alias
+alias rm rm -i
